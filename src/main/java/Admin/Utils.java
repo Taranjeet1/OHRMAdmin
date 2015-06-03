@@ -13,4 +13,7 @@ public class Utils extends BaseClass {
     {
         driver.manage().window().maximize();
     }
+    public void heloo(){
+
+    }
 }
